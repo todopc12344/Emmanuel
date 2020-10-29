@@ -16,8 +16,7 @@
 <p>
 <center>
 <img src="Page/Eyy.jpeg">
-</center>
-</p>
+
 <p>
 <h4>
 <font color=blue face=arial size=32>
@@ -25,5 +24,5 @@ El Jotote de Emmanuel :)
 </font>
 </h4>
 </p>
-</html>
+
 
