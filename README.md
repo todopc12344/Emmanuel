@@ -10,12 +10,12 @@
 </font></h1></p>
 <p>
 <center>
-<image src="Emmanuel.png">
+<image src="Page/Emmanuel.png">
 </center>
 </p>
 <p>
 <center>
-<img src="Eyy.jpeg">
+<img src="Page/Eyy.jpeg">
 </center>
 </p>
 <p>
@@ -26,3 +26,4 @@ El Jotote de Emmanuel :)
 </h4>
 </p>
 </html>
+
